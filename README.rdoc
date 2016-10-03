@@ -1,0 +1,5 @@
+- Kinda like a Pinterest clone where:
+   1. A user can post a picture.
+   2. A user can sign in.
+   3. A user can like a picture.
+   
